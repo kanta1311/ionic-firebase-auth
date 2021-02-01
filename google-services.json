@@ -1,0 +1,225 @@
+{
+  "project_info": {
+    "project_number": "452968296625",
+    "firebase_url": "https://fir-demo-77ffb.firebaseio.com",
+    "project_id": "fir-demo-77ffb",
+    "storage_bucket": "fir-demo-77ffb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:452968296625:android:551eae8400a8c808e67290",
+        "android_client_info": {
+          "package_name": "com.arvind.googlelogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "452968296625-r9r6ohgb80n7fadqv7o7ptekaqd13052.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlf_4L6Fnq3fvBKcZiKfXVe7wTuQmidOw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "452968296625-r9r6ohgb80n7fadqv7o7ptekaqd13052.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:452968296625:android:04f853d9c130b674",
+        "android_client_info": {
+          "package_name": "com.kantapp.firebasedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "452968296625-kjbi901bsn7as11svgrgq2lvpmfas7mk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kantapp.firebasedemo",
+            "certificate_hash": "01dea1091122c5392987775995e069a5a2e2b0f8"
+          }
+        },
+        {
+          "client_id": "452968296625-r9r6ohgb80n7fadqv7o7ptekaqd13052.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlf_4L6Fnq3fvBKcZiKfXVe7wTuQmidOw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "452968296625-r9r6ohgb80n7fadqv7o7ptekaqd13052.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:452968296625:android:0b31ed7644a5cad2",
+        "android_client_info": {
+          "package_name": "com.kantapp.firebaselearning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "452968296625-daojijh81pe3b4dk6o01f92r87q36u4h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kantapp.firebaselearning",
+            "certificate_hash": "01dea1091122c5392987775995e069a5a2e2b0f8"
+          }
+        },
+        {
+          "client_id": "452968296625-r9r6ohgb80n7fadqv7o7ptekaqd13052.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlf_4L6Fnq3fvBKcZiKfXVe7wTuQmidOw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "452968296625-r9r6ohgb80n7fadqv7o7ptekaqd13052.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:452968296625:android:dabcf27854f4d2a4",
+        "android_client_info": {
+          "package_name": "com.kantapp.myfireapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "452968296625-1k63itr2hjpk4t2bes4uurm484hmob5h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kantapp.myfireapp",
+            "certificate_hash": "f1ec3da7ce7f40f90d5e538b03a6f6354183a1c1"
+          }
+        },
+        {
+          "client_id": "452968296625-7h3t9f7uk9uvl24rsmbq6lhtim37jvks.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kantapp.myfireapp",
+            "certificate_hash": "bd69cc254a87ad40f3891568714b55af85c8404d"
+          }
+        },
+        {
+          "client_id": "452968296625-r9r6ohgb80n7fadqv7o7ptekaqd13052.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlf_4L6Fnq3fvBKcZiKfXVe7wTuQmidOw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "452968296625-r9r6ohgb80n7fadqv7o7ptekaqd13052.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:452968296625:android:16f93574552c7d4a",
+        "android_client_info": {
+          "package_name": "com.kantapp.phoneauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "452968296625-b1c0stprim1n8jll20bs2an5av3g9d3o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kantapp.phoneauth",
+            "certificate_hash": "f1ec3da7ce7f40f90d5e538b03a6f6354183a1c1"
+          }
+        },
+        {
+          "client_id": "452968296625-r9r6ohgb80n7fadqv7o7ptekaqd13052.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlf_4L6Fnq3fvBKcZiKfXVe7wTuQmidOw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "452968296625-r9r6ohgb80n7fadqv7o7ptekaqd13052.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:452968296625:android:2a073535e44d9f59e67290",
+        "android_client_info": {
+          "package_name": "kant.arvind.firebaseallout"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "452968296625-r9r6ohgb80n7fadqv7o7ptekaqd13052.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlf_4L6Fnq3fvBKcZiKfXVe7wTuQmidOw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "452968296625-r9r6ohgb80n7fadqv7o7ptekaqd13052.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
